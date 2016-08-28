@@ -5,7 +5,7 @@ public class Sampl
 {
 public static void main(String args[])
 {
-String s1="bfdf";
+String s1;
 Scanner s=new Scanner(System.in);
 s1=s.nextLine();
 StringBuffer buf=new StringBuffer(s1);
